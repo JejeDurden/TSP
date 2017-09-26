@@ -13,7 +13,8 @@
 
 1.KMeans
 2.Nearest Neighbor
-3.k-opt
+3.3-opt
+4.2-opt
 
 ## Usage
 
